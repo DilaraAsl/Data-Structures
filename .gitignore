@@ -1,0 +1,14 @@
+/.idea/
+/out/
+
+# Project exclude paths
+/dsa-06-AlgorithmProblems/target/
+/dsa-08-Trees/target/
+/dsa-01-AlgortihmAnalysis/dsa-01-AlgortihmAnalysis.iml
+/dsa-03-CollectionsReview/dsa-03-CollectionsReview.iml
+/dsa-04-LinkedLists/dsa-04-LinkedLists.iml
+/dsa-05-Stacks/dsa-05-Stacks.iml
+/dsa-02-Arrays/dsa-02-Arrays.iml
+/Data-Structures.iml
+/dsa-06-AlgorithmProblems/dsa-06-AlgorithmProblems.iml
+/*.iml
